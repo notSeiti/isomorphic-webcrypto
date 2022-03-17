@@ -1,5 +1,5 @@
 {
-  "name": "isomorphic-webcrypto",
+  "name": "@not_seiti/isomorphic-webcrypto",
   "version": "2.3.8",
   "description": "webcrypto library for Node, React Native and IE11+",
   "main": "./src/main.js",
@@ -69,9 +69,7 @@
     "webpack": "^4.42.0"
   },
   "optionalDependencies": {
-    "react-native-securerandom": "^0.1.1",
     "expo-random": "*",
-    "@unimodules/core": "*",
-    "@unimodules/react-native-adapter": "*"
+    "react-native-securerandom": "^0.1.1"
   }
 }
